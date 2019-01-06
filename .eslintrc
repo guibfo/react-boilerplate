@@ -1,6 +1,6 @@
 {
   "extends": [
-    "semistandard",
+    "standard",
     "plugin:react/recommended",
     "plugin:flowtype/recommended"
   ],
