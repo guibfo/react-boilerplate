@@ -1,8 +1,7 @@
 {
   "extends": [
     "standard",
-    "plugin:react/recommended",
-    "plugin:flowtype/recommended"
+    "plugin:react/recommended"
   ],
   "rules": {
     "space-before-function-paren": ["error", {
